@@ -1,0 +1,8 @@
+1. SPA/MPA ?
+- SPA(Single Page Application):
+	+ Cách tiếp cận mới, định hướng tương lai của trang web
+	+ Không y/c reload lại trang khi sử dụng
+	+ Ex: Khi nhấn vào 1 đường link thực hiện redrect sẽ không reload lại trang mà chỉ thay đổi route, title mà vẫn show đầy đủ thông tin cần thiết
+- MPA(Multiple Page Application):
+	+ Cách tiếp cận cũ, thường có ở những trang web cũ(nhiều project vẫn sẽ dùng công nghệ này)
+ 	+ Ngược lại với SPA
